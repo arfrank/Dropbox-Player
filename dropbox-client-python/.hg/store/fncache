@@ -1,0 +1,20 @@
+data/LICENSE.i
+data/Makefile.i
+data/bin/cli_client.py.i
+data/bin/oauth_diff.py.i
+data/config/testing.ini.example.i
+data/config/trusted_testing.ini.example.i
+data/dropbox/__init__.py.i
+data/dropbox/auth.py.i
+data/dropbox/client.py.i
+data/dropbox/rest.py.i
+data/setup.py.i
+data/tests/dropbox_tests/__init__.py.i
+data/tests/dropbox_tests/auth_tests.py.i
+data/tests/dropbox_tests/client_tests.py.i
+data/tests/dropbox_tests/helpers.py.i
+data/tests/dropbox_tests/rest_tests.py.i
+data/tests/dropbox_tests/trusted_client_tests.py.i
+data/tests/file with spaces.txt.i
+data/tests/sample_photo.jpg.i
+data/tests/中文.txt.i

@@ -1,0 +1,17 @@
+config = {}
+auth = {}
+auth['server'] = 'api.getdropbox.com'
+auth['content_server'] = 'api-content.getdropbox.com'
+
+auth['port'] = 80
+
+auth['request_token_url'] = 'http://api.getdropbox.com/0/oauth/request_token'
+auth['access_token_url'] = 'http://api.getdropbox.com/0/oauth/access_token'
+auth['authorization_url'] = 'http://api.getdropbox.com/0/oauth/authorize'
+auth['trusted_access_token_url'] = 'http://api.getdropbox.com/0/token'
+
+auth['consumer_key'] = ''
+auth['consumer_secret'] = ''
+auth['verifier'] = ''
+
+config['auth'] = auth

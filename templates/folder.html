@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+{% block main %}
+	<div id="files" class="">
+		{% for f in data.file_list %}
+			<li>{{f.1}}
+				<a href="/home?path={{f.0}}">Explore</a>
+				<a href="/player?path={{f.0}}">Play</a>
+			</li>
+		{% endfor %}
+	</div>
+{% endblock %}

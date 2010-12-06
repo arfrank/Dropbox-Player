@@ -1,0 +1,33 @@
+body{
+	width:720px;
+	margin:0 auto;
+}
+#main{
+	border-radius:10px;
+	-webkit-box-shadow:10px 10px 10px #f0f0ff;
+	padding:20px;
+	border:1px solid #ccc;
+	margin:50px 20px;
+	text-align:center;
+}
+#main h1{
+	padding:5px;
+	font-size:24px;
+}
+#main h2{
+	padding:5px;
+	font-size:20px;
+}
+#main input{
+	width:140px;
+	border:0px;
+	border-radius:10px;
+	background:#f0f0ff;
+	padding:20px;
+}
+#main input:hover{
+	background:#c0c0ff;
+}
+#files, #player{
+	text-align:left;
+}

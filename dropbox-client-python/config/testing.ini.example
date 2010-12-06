@@ -1,0 +1,23 @@
+
+[auth]
+server = api.getdropbox.com
+content_server = api-content.getdropbox.com
+port = 80
+
+request_token_url = http://api.getdropbox.com/0/oauth/request_token
+access_token_url = http://api.getdropbox.com/0/oauth/access_token
+authorization_url = http://api.getdropbox.com/0/oauth/authorize
+
+# key and secret granted by the service provider for this consumer application - same as the mockoauthdatastore
+consumer_key = SOME_KEY
+consumer_secret = SOME_SECRET
+
+# leave the verifier blank for now
+verifier = 
+
+# these two configurations aren't needed in normal operation,
+# they're only used during the unit tests to make sure that 
+# everything is working.
+testing_user = YOUR_LOGIN_EMAIL
+testing_password = YOUR_LOGIN_PASSWORD
+
