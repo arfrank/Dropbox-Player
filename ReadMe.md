@@ -12,16 +12,20 @@ Use at your own risk.
 
 Also includes source from:
 
-/*
- * jPlayer Plugin for jQuery JavaScript Library
- * http://www.happyworm.com/jquery/jplayer
- *
- * Copyright (c) 2009 - 2010 Happyworm Ltd
- * Dual licensed under the MIT and GPL licenses.
- *  - http://www.opensource.org/licenses/mit-license.php
- *  - http://www.gnu.org/copyleft/gpl.html
- *
- * Author: Mark J Panaghiston
- * Version: 1.2.0
- * Date: 11th July 2010
- */
+> jPlayer Plugin for jQuery JavaScript Library
+
+> http://www.happyworm.com/jquery/jplayer
+
+> Copyright (c) 2009 - 2010 Happyworm Ltd
+
+> Dual licensed under the MIT and GPL licenses.
+
+> - http://www.opensource.org/licenses/mit-license.php
+
+> - http://www.gnu.org/copyleft/gpl.html
+
+> Author: Mark J Panaghiston
+
+> Version: 1.2.0
+
+> Date: 11th July 2010
