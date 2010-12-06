@@ -2,6 +2,8 @@ A quickly hacked together project to play with the Dropbox API
 
 Might at some point power a real working application, but for now its just a proof of concept
 
+Currently resides at dropboxplayer.appspot.com
+
 Right now it very basically lets you navigate your dropbox account, choose a player, and play the mp3s in that folder via a webpage
 
 Made by Aaron Frank
